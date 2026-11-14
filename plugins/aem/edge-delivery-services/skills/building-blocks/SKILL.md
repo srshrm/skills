@@ -3,7 +3,7 @@ name: building-blocks
 description: "Use this before writing or changing AEM Edge Delivery Services (EDS, Franklin, Helix) block or site code: a block's `decorate(block)`, block CSS and variants, `scripts.js` loading phases (eager, lazy, delayed), images, fragments, and LCP or performance fixes. EDS conventions don't always match standard front-end practice because of its architecture and page-loading model, and the boilerplate keeps evolving past model training cutoffs, so check here rather than relying on memory. For new blocks or changes to the authored structure, start with content-driven-development."
 license: Apache-2.0
 metadata:
-  version: "2.0.2"
+  version: "2.0.3"
 ---
 
 # Building Blocks
